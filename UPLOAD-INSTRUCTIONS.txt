@@ -1,0 +1,9 @@
+1. Extract this ZIP.
+2. Open your GitHub repository: zamvestim.github.io
+3. Upload ALL extracted files to the repository root.
+4. Commit the files.
+5. Go to Settings > Pages.
+6. Select Deploy from a branch.
+7. Branch: main
+8. Folder: /(root)
+9. Save.

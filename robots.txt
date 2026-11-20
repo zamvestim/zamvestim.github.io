@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zamvestim.github.io/sitemap.xml
